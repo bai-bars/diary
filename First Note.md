@@ -1,2 +1,0 @@
-Bismillahir Rahmanir Rahim
-[[Hello]]
